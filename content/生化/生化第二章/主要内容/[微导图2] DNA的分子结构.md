@@ -1,0 +1,31 @@
+[[markmap - 2026-07-07T004855.242.svg]]
+# DNA的分子结构 — 微型速记导图&nbsp;&nbsp;&nbsp;
+
+- ★一级结构&nbsp;&nbsp;&nbsp;
+  - 定义：核苷酸的排列顺序（碱基序列）&nbsp;&nbsp;&nbsp;
+  - 维系键：**3',5'-磷酸二酯键**&nbsp;&nbsp;&nbsp;
+  - 方向：**5'→3'**&nbsp;&nbsp;&nbsp;
+- ★二级结构——双螺旋模型（Watson-Crick, 1953）&nbsp;&nbsp;&nbsp;
+  - 两条链：**反向平行**/右手螺旋&nbsp;&nbsp;&nbsp;
+    - 直径 **2.37nm** | 螺距 **3.54nm** | 每圈 **10.5**碱基&nbsp;&nbsp;&nbsp;
+  - ★碱基互补配对：&nbsp;&nbsp;&nbsp;
+    - **A = T**（**2个氢键**）&nbsp;&nbsp;&nbsp;
+    - **G ≡ C**（**3个氢键**，更稳定）&nbsp;&nbsp;&nbsp;
+  - 骨架：脱氧核糖+磷酸在**外侧**（亲水），碱基在**内侧**（疏水）&nbsp;&nbsp;&nbsp;
+  - 表面：形成**大沟**和**小沟**&nbsp;&nbsp;&nbsp;
+  - 碱基对平面与螺旋轴**垂直**&nbsp;&nbsp;&nbsp;
+  - 稳定力量：**氢键**(横向) + **碱基堆积力/疏水作用**(纵向)&nbsp;&nbsp;&nbsp;
+- ★Chargaff定律（1949）&nbsp;&nbsp;&nbsp;
+  - **[A]=[T]，[G]=[C]**&nbsp;&nbsp;&nbsp;
+  - 不同物种碱基组成不同；同一个体不同组织相同&nbsp;&nbsp;&nbsp;
+- DNA双螺旋多样性&nbsp;&nbsp;&nbsp;
+  - B-DNA：右手/3.54nm/10.5bp/生理条件（最常见）&nbsp;&nbsp;&nbsp;
+  - A-DNA：右手/2.53nm/11bp/脱水条件&nbsp;&nbsp;&nbsp;
+  - Z-DNA：左手/4.56nm/12bp/锯齿型/CG序列&nbsp;&nbsp;&nbsp;
+- ★三级结构&nbsp;&nbsp;&nbsp;
+  - 原核：**超螺旋**（多为**负超螺旋**/环状）&nbsp;&nbsp;&nbsp;
+  - 真核：**核小体**（染色质基本单位）&nbsp;&nbsp;&nbsp;
+    - 核心：组蛋白**八聚体**（H2A/H2B/H3/H4各2分子）+ DNA~146bp&nbsp;&nbsp;&nbsp;
+    - 连接：**H1**组蛋白 + ~60bp DNA&nbsp;&nbsp;&nbsp;
+    - 分裂期压缩**8000~10000倍**形成染色体&nbsp;&nbsp;&nbsp;
+- DNA功能：遗传信息**载体** -> **基因**（功能片段）-> **基因组**（全部基因）&nbsp;&nbsp;&nbsp;
