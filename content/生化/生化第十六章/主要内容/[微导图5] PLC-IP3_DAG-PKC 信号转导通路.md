@@ -1,0 +1,31 @@
+[[markmap - 2026-07-10T205711.852.svg]]
+# PLC-IP3/DAG-PKC 信号转导通路&nbsp;&nbsp;&nbsp;
+
+- **PLC-IP₃/DAG-PKC 通路全流程**&nbsp;&nbsp;&nbsp;
+	- **信号分子** -> **==促甲状腺素释放激素==** / **==去甲肾上腺素(α₁受体)==**&nbsp;&nbsp;&nbsp;
+	- **受体类型** -> **==G 蛋白偶联型受体==**（与 Gq 偶联）&nbsp;&nbsp;&nbsp;
+	- **G 蛋白** -> **==Gq==** -> αq-GTP 活化&nbsp;&nbsp;&nbsp;
+	- **效应酶** -> **==磷脂酶 C (PLC)==**&nbsp;&nbsp;&nbsp;
+	- **底物** -> **==PIP₂==**（磷脂酰肌醇-4,5-二磷酸，位于细胞膜）&nbsp;&nbsp;&nbsp;
+	- **产物（一对双胞胎第二信使）** -> **==IP₃ + DAG==**&nbsp;&nbsp;&nbsp;
+- **IP₃ 通路（钙动员分支）**&nbsp;&nbsp;&nbsp;
+	- IP₃ → 进入**==胞液==** → 与**内质网**上 IP₃ 受体结合&nbsp;&nbsp;&nbsp;
+	- 内质网 Ca²⁺ 通道开放 → **==Ca²⁺ 释放入胞液==** → 胞液 [Ca²⁺] 升高&nbsp;&nbsp;&nbsp;
+	- Ca²⁺ 与 **==钙调蛋白(CaM)==** 结合 → Ca²⁺/CaM 复合物&nbsp;&nbsp;&nbsp;
+	- Ca²⁺/CaM → 激活多种下游蛋白：&nbsp;&nbsp;&nbsp;
+		- **==Ca²⁺/CaM 依赖性激酶(CaMK)==**&nbsp;&nbsp;&nbsp;
+		- 腺苷酸环化酶（脑组织）&nbsp;&nbsp;&nbsp;
+		- cAMP 磷酸二酯酶&nbsp;&nbsp;&nbsp;
+		- 肌球蛋白轻链激酶&nbsp;&nbsp;&nbsp;
+		- NO 合成酶&nbsp;&nbsp;&nbsp;
+- **DAG 通路（膜结合分支）**&nbsp;&nbsp;&nbsp;
+	- DAG → 留在**==细胞膜==**上&nbsp;&nbsp;&nbsp;
+	- DAG + **==Ca²⁺==** → 共同激活 **==蛋白激酶 C (PKC)==**&nbsp;&nbsp;&nbsp;
+	- PKC → Ser/Thr 蛋白激酶 → 磷酸化多种靶蛋白 → 调节细胞增殖、分化&nbsp;&nbsp;&nbsp;
+- **通路关键数字速记**&nbsp;&nbsp;&nbsp;
+	- **1 个底物** -> **==PIP₂==**&nbsp;&nbsp;&nbsp;
+	- **1 个酶** -> **==PLC==**（被 Gq 激活）&nbsp;&nbsp;&nbsp;
+	- **2 个第二信使** -> **==IP₃ + DAG==**（双胞胎信使）&nbsp;&nbsp;&nbsp;
+	- **3 个关键效应分子** -> **==IP₃→Ca²⁺→CaM==** / **==DAG+Ca²⁺→PKC==**&nbsp;&nbsp;&nbsp;
+- **PLC-IP₃/DAG-PKC 一级流程速记**&nbsp;&nbsp;&nbsp;
+	- **激素** → Gq → **==PLC==** → **==PIP₂==**裂解 → **==IP₃==**（走胞液→内质网→**Ca²⁺**↑） + **==DAG==**（留膜上→伴 Ca²⁺→**PKC**）&nbsp;&nbsp;&nbsp;
